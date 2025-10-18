@@ -493,7 +493,7 @@ table {
 
 .third-section-card {
     position: sticky;
-    top: 70;
+    top: 70px;
     width: 30%;
     padding-inline: 50px;
     padding-block: 40px;
@@ -1018,4 +1018,5 @@ table {
 img {
     width: 100%;
 }
+
 
